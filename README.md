@@ -49,7 +49,7 @@ trade-opportunities/
 ## Setup Instructions
 
 ### 1. Clone the Repository
-git clone <your-github-repository-url>
+git clone (https://github.com/Laharivanaja/trade-opportunities.git)
 cd trade-opportunities 
 
 ### 2. Create Virtual Environment
