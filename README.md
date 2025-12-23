@@ -62,7 +62,7 @@ python -m pip install -r requirements.txt
 ## Environment Configuration
 Create a `.env` file in the root directory and add:
 
-GEMINI_API_KEY=AIzaSyCsQEdhN2977TJB2RcMgTK3rqeZ8V0toKg
+GEMINI_API_KEY={keyvalue}
 JWT_SECRET=trade_opportunities_secret
 
 
